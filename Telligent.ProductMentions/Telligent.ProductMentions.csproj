@@ -51,6 +51,7 @@
   <ItemGroup>
     <Compile Include="Constants.cs" />
     <Compile Include="ProductContent.cs" />
+    <Compile Include="ProductService.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
